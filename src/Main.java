@@ -50,6 +50,9 @@ public class Main {
 
         Dijkstra dijkstra = new Dijkstra();
         dijkstra.main();
+        
+        Zachlanny zachlanny = new Zachlanny();
+        zachlanny.main();
     }
 }
 
